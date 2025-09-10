@@ -128,10 +128,6 @@ dotnet publish -c Release
 dotnet clean
 ```
 
-## Licence
-
-Projet éducatif - ESTIAM
-
 ## Auteur
 
-Maurice - Étudiant ESTIAM
+Maurice Nahounme
