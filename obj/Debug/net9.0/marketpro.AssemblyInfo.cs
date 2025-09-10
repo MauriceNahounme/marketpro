@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("marketpro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73f1c41a3d8b26ab8bab47a03499bcb296972ed6")]
 [assembly: System.Reflection.AssemblyProductAttribute("marketpro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("marketpro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

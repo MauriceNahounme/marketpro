@@ -94,3 +94,9 @@ C:\Users\Maurice\OneDrive\Bureau\Estiam\marketpro\obj\Debug\net9.0\refint\market
 C:\Users\Maurice\OneDrive\Bureau\Estiam\marketpro\obj\Debug\net9.0\marketpro.pdb
 C:\Users\Maurice\OneDrive\Bureau\Estiam\marketpro\obj\Debug\net9.0\marketpro.genruntimeconfig.cache
 C:\Users\Maurice\OneDrive\Bureau\Estiam\marketpro\obj\Debug\net9.0\ref\marketpro.dll
+c:\Users\Maurice\OneDrive\Bureau\Estiam\marketpro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\Maurice\OneDrive\Bureau\Estiam\marketpro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\Maurice\OneDrive\Bureau\Estiam\marketpro\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+c:\Users\Maurice\OneDrive\Bureau\Estiam\marketpro\obj\Debug\net9.0\marketpro.csproj.AssemblyReference.cache
+c:\Users\Maurice\OneDrive\Bureau\Estiam\marketpro\obj\Debug\net9.0\marketpro.sourcelink.json
+c:\Users\Maurice\OneDrive\Bureau\Estiam\marketpro\obj\Debug\net9.0\marketpro.csproj.Up2Date

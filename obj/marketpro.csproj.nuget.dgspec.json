@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maurice\\OneDrive\\Bureau\\Estiam\\marketpro\\marketpro.csproj": {}
+    "c:\\Users\\Maurice\\OneDrive\\Bureau\\Estiam\\marketpro\\marketpro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maurice\\OneDrive\\Bureau\\Estiam\\marketpro\\marketpro.csproj": {
+    "c:\\Users\\Maurice\\OneDrive\\Bureau\\Estiam\\marketpro\\marketpro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maurice\\OneDrive\\Bureau\\Estiam\\marketpro\\marketpro.csproj",
+        "projectUniqueName": "c:\\Users\\Maurice\\OneDrive\\Bureau\\Estiam\\marketpro\\marketpro.csproj",
         "projectName": "marketpro",
-        "projectPath": "C:\\Users\\Maurice\\OneDrive\\Bureau\\Estiam\\marketpro\\marketpro.csproj",
+        "projectPath": "c:\\Users\\Maurice\\OneDrive\\Bureau\\Estiam\\marketpro\\marketpro.csproj",
         "packagesPath": "C:\\Users\\Maurice\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maurice\\OneDrive\\Bureau\\Estiam\\marketpro\\obj\\",
+        "outputPath": "c:\\Users\\Maurice\\OneDrive\\Bureau\\Estiam\\marketpro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Maurice\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,6 +43,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
